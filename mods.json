@@ -1,0 +1,98 @@
+[
+  // -------------------------
+  // MAPS
+  // -------------------------
+  {
+    "id": "world-map",
+    "name": "World Map Expansion",
+    "author": "YourName",
+    "type": "Map",
+    "version": "1.0.0",
+    "lastUpdatedDate": "2026-04-01",
+    "downloadURL": "https://github.com/yourname/mods-repo/releases/download/world-map-v1.0.0/world-map.zip",
+    "properties": {
+      "mapSize": "large",
+      "supportsFastTravel": true,
+      "regionCount": 5
+    }
+  },
+  {
+    "id": "custom-dungeon-map",
+    "name": "Custom Dungeon Map",
+    "author": "YourName",
+    "type": "Map",
+    "version": "1.0.0",
+    "lastUpdatedDate": "2026-04-01",
+    "downloadURL": "https://github.com/yourname/mods-repo/releases/download/custom-dungeon-map-v1.0.0/custom-dungeon-map.zip",
+    "properties": {
+      "mapTheme": "dark",
+      "difficulty": "hard",
+      "enemyDensity": "high"
+    }
+  },
+  // -------------------------
+  // GRAPHICS
+  // -------------------------
+  {
+    "id": "graphics-overhaul",
+    "name": "Graphics Overhaul",
+    "author": "YourName",
+    "type": "Graphics",
+    "version": "2.0.0",
+    "lastUpdatedDate": "2026-04-01",
+    "downloadURL": "https://github.com/yourname/mods-repo/releases/download/graphics-overhaul-v2.0.0/graphics-overhaul.zip",
+    "properties": {
+      "resolution": "4K",
+      "rayTracing": true,
+      "textureQuality": "ultra"
+    }
+  },
+  {
+    "id": "ui-enhancer",
+    "name": "UI Enhancer",
+    "author": "YourName",
+    "type": "UI",
+    "version": "1.3.0",
+    "lastUpdatedDate": "2026-04-01",
+    "downloadURL": "https://github.com/yourname/mods-repo/releases/download/ui-enhancer-v1.3.0/ui-enhancer.zip",
+    "properties": {
+      "theme": "dark",
+      "scaling": 1.25,
+      "animatedMenus": true
+    }
+  },
+  // -------------------------
+  // BALANCE
+  // -------------------------
+  {
+    "id": "balance-patch",
+    "name": "Balance Patch",
+    "author": "YourName",
+    "type": "Balance",
+    "version": "1.0.2",
+    "lastUpdatedDate": "2026-04-01",
+    "downloadURL": "https://github.com/yourname/mods-repo/releases/download/balance-patch-v1.0.2/balance-patch.zip",
+    "properties": {
+      "damageMultiplier": 0.9,
+      "healthMultiplier": 1.2,
+      "difficultyIncrease": "medium"
+    }
+  },
+  // -------------------------
+  // HOTKEYS
+  // -------------------------
+  {
+    "id": "hotkey-plus",
+    "name": "Hotkey Plus",
+    "author": "YourName",
+    "type": "Keybinding",
+    "version": "1.0.0",
+    "lastUpdatedDate": "2026-04-01",
+    "downloadURL": "https://github.com/yourname/mods-repo/releases/download/hotkey-plus-v1.0.0/hotkey-plus.zip",
+    "properties": {
+      "keys": ["F1", "F2", "F3"],
+      "allowRebinding": true,
+      "contextSensitive": false
+    }
+  }
+]
