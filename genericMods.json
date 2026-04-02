@@ -1,7 +1,7 @@
 [
   {
     "id": "mod_001",
-    "name": "Simple Balance Tweaks",
+    "fileName": "SimpleBalanceTweaks.scd",
     "author": "DevUser",
     "type": "Mod",
     "version": "1.0.0",
@@ -11,10 +11,10 @@
 
   {
     "id": "mod_002",
-    "name": "Simple Balance Tweaks",
+    "fileName": "SimpleBalanceTweaks2.scd",
     "author": "DevUser",
     "type": "Mod",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "lastUpdatedDate": "2026-01-20",
     "downloadURL": "https://example.com/mods/balance/simple_tweaks.zip"
   }
