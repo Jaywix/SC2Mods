@@ -1,7 +1,7 @@
 [
   {
   "id": "map_001",
-  "name": "Desert Warfare",
+  "fileName": "DesertWarfare.scd",
   "author": "MapMaker123",
   "type": "Map",
   "version": "1.0.0",
@@ -18,10 +18,10 @@
 
   {
   "id": "map_002",
-  "name": "Desert Warfare",
+  "fileName": "DesertWarfare2.scd",
   "author": "MapMaker123",
   "type": "Map",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "lastUpdatedDate": "2026-03-15",
   "downloadURL": "https://example.com/mods/maps/desert_warfare.zip",
     
