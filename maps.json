@@ -1,0 +1,44 @@
+[
+  {
+  "id": "map_001",
+  "name": "Desert Warfare",
+  "author": "MapMaker123",
+  "type": "Map",
+  "version": "1.0.0",
+  "lastUpdatedDate": "2026-03-15",
+  "downloadURL": "https://example.com/mods/maps/desert_warfare.zip",
+    
+  "playerCount": 4,
+  "mapTeamStyle": "2v2",
+  "size": "512",
+  "mapName": "Desert Warfare",
+  "description": "A large 4-player desert map with balanced expansion opportunities.",
+  "mapPictureFileName": "desert_warfare.png"
+  }
+
+  {
+  "id": "map_002",
+  "name": "Desert Warfare",
+  "author": "MapMaker123",
+  "type": "Map",
+  "version": "1.0.0",
+  "lastUpdatedDate": "2026-03-15",
+  "downloadURL": "https://example.com/mods/maps/desert_warfare.zip",
+    
+  "playerCount": 4,
+  "mapTeamStyle": "2v2",
+  "size": "512",
+  "mapName": "Desert Warfare",
+  "description": "A large 4-player desert map with balanced expansion opportunities.",
+  "mapPictureFileName": "desert_warfare.png"
+  }
+  
+
+
+
+
+
+
+
+
+]
