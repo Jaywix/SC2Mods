@@ -8,7 +8,7 @@
   "lastUpdatedDate": "2026-03-15",
   "downloadURL": "https://example.com/mods/maps/desert_warfare.zip",
     
-  "playerCount": 4,
+  "playerCount": "4",
   "mapTeamStyle": "2v2",
   "size": "512",
   "mapName": "Desert Warfare",
@@ -25,7 +25,7 @@
   "lastUpdatedDate": "2026-03-15",
   "downloadURL": "https://example.com/mods/maps/desert_warfare.zip",
     
-  "playerCount": 4,
+  "playerCount": "4",
   "mapTeamStyle": "2v2",
   "size": "512",
   "mapName": "Desert Warfare",
