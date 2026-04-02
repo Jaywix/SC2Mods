@@ -1,0 +1,26 @@
+[
+  {
+  "id": "hotkey_001",
+  "name": "Pro Hotkeys",
+  "author": "KeyMaster",
+  "type": "Hotkey",
+  "version": "2.1.0",
+  "lastUpdatedDate": "2026-02-10",
+  "downloadURL": "https://example.com/mods/hotkeys/pro_hotkeys.zip",
+    
+  "profileName": "Pro Layout",
+    "isDefault": false,
+    "hotkeyBindings": {
+      "AttackMove": "A",
+      "Stop": "S",
+      "HoldPosition": "H"
+    }
+  }
+  
+
+
+
+
+
+
+]
