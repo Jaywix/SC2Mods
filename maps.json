@@ -1,37 +1,21 @@
 [
   {
-  "id": "map_001",
-  "fileName": "DesertWarfare.scd",
-  "author": "MapMaker123",
+  "id": "BDFTM Desert Valley",
+  "fileName": "_BDFTM_Desert_Valley_v1.0.0.scd",
+  "author": "lCryallSunl, alphahex",
   "type": "Map",
   "version": "1.0.0",
-  "lastUpdatedDate": "2026-03-15",
-  "downloadURL": "https://example.com/mods/maps/desert_warfare.zip",
+  "lastUpdatedDate": "21.07.2024",
+  "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/BDFTM_Desert_Valley_v1.0.0/_BDFTM_Desert_Valley_v1.0.0.zip"
     
-  "playerCount": "4",
-  "mapTeamStyle": "2v2",
-  "size": "512",
-  "mapName": "Desert Warfare",
-  "description": "A large 4-player desert map with balanced expansion opportunities.",
-  "mapPictureFileName": "desert_warfare.png"
+  "playerCount": "8",
+  "mapTeamStyle": "4v4",
+  "size": "",
+  "mapName": "Desert Valley",
+  "description": "",
+  "mapPictureFileName": "desertvalley.png"
   }
 
-  {
-  "id": "map_002",
-  "fileName": "DesertWarfare2.scd",
-  "author": "MapMaker123",
-  "type": "Map",
-  "version": "2.0.0",
-  "lastUpdatedDate": "2026-03-15",
-  "downloadURL": "https://example.com/mods/maps/desert_warfare.zip",
-    
-  "playerCount": "4",
-  "mapTeamStyle": "2v2",
-  "size": "512",
-  "mapName": "Desert Warfare",
-  "description": "A large 4-player desert map with balanced expansion opportunities.",
-  "mapPictureFileName": "desert_warfare.png"
-  }
   
 
 
