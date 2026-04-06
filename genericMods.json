@@ -1,7 +1,7 @@
 [
   {
-    "id": "BuildModeHotkeys",
-    "fileName": "_BuildModeHotkeys.scd",
+    "id": "BuildModeHotkeys_v1.0.0",
+    "fileName": "_BuildModeHotkeys_v1.0.0.scd",
     "author": "Unknown",
     "type": "Mod",
     "version": "1.0.0",
@@ -11,8 +11,8 @@
 
 
   {
-    "id": "BuffedAICapacity",
-    "fileName": "_BuffedAICapacity.scd",
+    "id": "BuffedAICapacity_v1.0.0",
+    "fileName": "_BuffedAICapacity_v1.0.0.scd",
     "author": "Unknown",
     "type": "Mod",
     "version": "1.0.0",
