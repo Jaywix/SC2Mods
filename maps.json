@@ -555,17 +555,17 @@
     "mapPictureFileName": ""
   },
   {
-    "id": "BDFTM Termisis",
-    "fileName": "_BDFTM_Termisis_v1.0.0.scd",
+    "id": "BDFTM Termesis",
+    "fileName": "_BDFTM_Termesis_v1.0.0.scd",
     "author": "Foxtermelon, Maksing, R3code",
     "type": "Map",
     "version": "v1.0.0",
     "lastUpdatedDate": "02.11.2025",
-    "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/BDFTM_Termisis_v1.0.0/_BDFTM_Termisis_v1.0.0.scd",
+    "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/BDFTM_Termesis_v1.0.0/_BDFTM_Termesis_v1.0.0.scd",
     "playerCount": "8",
     "mapTeamStyle": "4v4",
     "size": "",
-    "mapName": "BDFTM Termisis",
+    "mapName": "BDFTM Termesis",
     "description": "",
     "mapPictureFileName": ""
   },
