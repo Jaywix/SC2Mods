@@ -750,5 +750,21 @@
     "description": "",
     "mapPictureFileName": "",
     "tags": ["6 Players", "4 Players", "2 Players", "Large", "Medium", "Small", "Water", "Map Pack"]
+  },
+  {
+    "id": "Nuclear Pizza Map Pack",
+    "fileName": "_mappack_pizza_1.0.0.scd",
+    "author": "Nuclear Pizza",
+    "type": "Map",
+    "version": "v1.0.0",
+    "lastUpdatedDate": "",
+    "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/Nuclear_Pizza_Map_Pack_v1.0.0/_mappack_pizza_1.0.0.scd",
+    "playerCount": "6",
+    "mapTeamStyle": "3v3",
+    "size": "",
+    "mapName": "Nuclear Pizza Map Pack",
+    "description": "",
+    "mapPictureFileName": "",
+    "tags": ["6 Players", "Large", "Medium", "Map Pack"]
   }
 ]
