@@ -13,6 +13,7 @@
     "mapName": "4v4 Tourney Dome Maps",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Large", "Medium", "Small", "Map Pack"]
   },
   {
     "id": "Kael 4v4 Map Pack",
@@ -28,6 +29,7 @@
     "mapName": "Kael 4v4 Map Pack",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Map Pack"]
   },
   {
     "id": "Maksing Map Pack",
@@ -43,6 +45,7 @@
     "mapName": "Maksing Map Pack",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "6 Players", "4 Players", "2 Players", "FFA", "Team", "Large", "Medium", "Small", "Map Pack", "Water"]
   },
   {
     "id": "Micro Battle Map Pack",
@@ -58,6 +61,7 @@
     "mapName": "Micro Battle Map Pack",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["2 Players", "Small", "Map Pack"]
   },
   {
     "id": "Monkey Lord vs 7",
@@ -73,6 +77,7 @@
     "mapName": "Monkey Lord vs 7",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Medium"]
   },
   {
     "id": "Osmos Map Pack",
@@ -88,6 +93,7 @@
     "mapName": "Osmos Map Pack",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Map Pack"]
   },
   {
     "id": "Open Palms Infinite Mass",
@@ -103,6 +109,7 @@
     "mapName": "Open Palms Infinite Mass",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["6 Players", "Team", "FFA", "Medium"]
   },
   {
     "id": "SCS Fall Maps",
@@ -118,6 +125,7 @@
     "mapName": "SCS Fall Maps",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["4 Players", "2 Players", "Team", "Medium", "Small", "Map Pack"]
   },
   {
     "id": "SCS Summer Final Maps",
@@ -133,6 +141,7 @@
     "mapName": "SCS Summer Final Maps",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["2 Players", "Small", "Map Pack"]
   },
   {
     "id": "STUPID STUFF BY MAKSING",
@@ -148,6 +157,7 @@
     "mapName": "STUPID STUFF BY MAKSING",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["6 Players", "Team", "Medium", "Map Pack"]
   },
   {
     "id": "Tourney Dome Change v1",
@@ -163,6 +173,7 @@
     "mapName": "Tourney Dome Change v1",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Large"]
   },
   {
     "id": "Tourney Dome Change v2",
@@ -178,6 +189,7 @@
     "mapName": "Tourney Dome Change v2",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Large"]
   },
   {
     "id": "Tourney Dome Change v2 Super Version",
@@ -193,6 +205,7 @@
     "mapName": "Tourney Dome Change v2 Super Version",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Large"]
   },
   {
     "id": "Greenland",
@@ -208,6 +221,7 @@
     "mapName": "Greenland",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Large"]
   },
   {
     "id": "Impact",
@@ -223,6 +237,7 @@
     "mapName": "Impact",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Medium"]
   },
   {
     "id": "Thunderpass 3v3",
@@ -238,6 +253,7 @@
     "mapName": "Thunderpass 3v3",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["6 Players", "Team", "Medium"]
   },
   {
     "id": "Reactor",
@@ -253,6 +269,7 @@
     "mapName": "Reactor",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Large"]
   },
   {
     "id": "Open Pines",
@@ -268,6 +285,7 @@
     "mapName": "Open Pines",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Large"]
   },
   {
     "id": "Van Horne Core Rebalance",
@@ -283,6 +301,7 @@
     "mapName": "Van Horne Core Rebalance",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["6 Players", "Team", "Large"]
   },
   {
     "id": "BDFTM Escarpment",
@@ -298,6 +317,7 @@
     "mapName": "BDFTM Escarpment",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["4 Players", "Team", "Medium"]
   },
   {
     "id": "BDFTM Obsidian Glacier Lake",
@@ -313,6 +333,7 @@
     "mapName": "BDFTM Obsidian Glacier Lake",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Medium"]
   },
   {
     "id": "BDFTM Serene Isle",
@@ -328,6 +349,7 @@
     "mapName": "BDFTM Serene Isle",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Medium", "Water"]
   },
   {
     "id": "BDFTM Heart of the Depths",
@@ -343,6 +365,7 @@
     "mapName": "BDFTM Heart of the Depths",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Large"]
   },
   {
     "id": "BDFTM Iron\u2019s Gambit",
@@ -358,6 +381,7 @@
     "mapName": "BDFTM Iron\u2019s Gambit",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Medium"]
   },
   {
     "id": "BDFTM Sky City",
@@ -373,6 +397,7 @@
     "mapName": "BDFTM Sky City",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["6 Players", "Team", "Medium"]
   },
   {
     "id": "BDFTM Astro Crater",
@@ -388,6 +413,7 @@
     "mapName": "BDFTM Astro Crater",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["6 Players", "Team", "Large", "Water"]
   },
   {
     "id": "BDFTM Venus Forge",
@@ -403,6 +429,7 @@
     "mapName": "BDFTM Venus Forge",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["4 Players", "Team", "Medium"]
   },
   {
     "id": "BDFTM Aztec",
@@ -418,6 +445,7 @@
     "mapName": "BDFTM Aztec",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["7 Players", "FFA", "Large"]
   },
   {
     "id": "BDFTM Ishtar Cliffs",
@@ -433,6 +461,7 @@
     "mapName": "BDFTM Ishtar Cliffs",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["6 Players", "Team", "Medium"]
   },
   {
     "id": "BDFTM Ammonia",
@@ -448,6 +477,7 @@
     "mapName": "BDFTM Ammonia",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Large", "Water"]
   },
   {
     "id": "BDFTM Quantum Beacon",
@@ -463,6 +493,7 @@
     "mapName": "BDFTM Quantum Beacon",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["6 Players", "Team", "FFA", "Medium"]
   },
   {
     "id": "BDFTM Dualis",
@@ -478,6 +509,7 @@
     "mapName": "BDFTM Dualis",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["2 Players", "Team", "Small"]
   },
   {
     "id": "BDFTM Dystopia",
@@ -493,21 +525,23 @@
     "mapName": "BDFTM Dystopia",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Large"]
   },
   {
-  "id": "BDFTM Desert Valley",
-  "fileName": "_BDFTM_Desert_Valley_v1.0.0.scd",
-  "author": "lCryallSunl, Alphahex",
-  "type": "Map",
-  "version": "v1.0.0",
-  "lastUpdatedDate": "21.07.2024",
-  "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/BDFTM_Desert_Valley_v1.0.0/_BDFTM_Desert_Valley_v1.0.0.scd",
-  "playerCount": "8",
-  "mapTeamStyle": "4v4",
-  "size": "",
-  "mapName": "Desert Valley",
-  "description": "",
-  "mapPictureFileName": "desertvalley.png"
+    "id": "BDFTM Desert Valley",
+    "fileName": "_BDFTM_Desert_Valley_v1.0.0.scd",
+    "author": "lCryallSunl, Alphahex",
+    "type": "Map",
+    "version": "v1.0.0",
+    "lastUpdatedDate": "21.07.2024",
+    "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/BDFTM_Desert_Valley_v1.0.0/_BDFTM_Desert_Valley_v1.0.0.scd",
+    "playerCount": "8",
+    "mapTeamStyle": "4v4",
+    "size": "",
+    "mapName": "Desert Valley",
+    "description": "",
+    "mapPictureFileName": "desertvalley.png"
+    "tags": ["8 Players", "Team", "Small"]
   },
   {
     "id": "BDFTM Terra",
@@ -523,6 +557,7 @@
     "mapName": "BDFTM Terra",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "FFA", "Large", "Water"]
   },
   {
     "id": "BDFTM Dual Gap",
@@ -538,6 +573,7 @@
     "mapName": "BDFTM Dual Gap",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Large", "Water"]
   },
   {
     "id": "BDFTM Cloudspire",
@@ -553,6 +589,7 @@
     "mapName": "BDFTM Cloudspire",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["4 Players", "Team", "Small"]
   },
   {
     "id": "BDFTM Termesis",
@@ -568,6 +605,7 @@
     "mapName": "BDFTM Termesis",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Large"]
   },
   {
     "id": "BDFTM Dune",
@@ -583,6 +621,7 @@
     "mapName": "BDFTM Dune",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["2 Players", "Small"]
   },
   {
     "id": "BDFTM Emerald Caldera",
@@ -598,6 +637,7 @@
     "mapName": "BDFTM Emerald Caldera",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "Team", "Large", "Water"]
   },
   {
     "id": "BDFTM Custom Mission TEST VERSION",
@@ -613,6 +653,7 @@
     "mapName": "BDFTM Custom Mission TEST VERSION",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["Large"]
   },
   {
     "id": "FET 1v1 Map Pack",
@@ -628,6 +669,7 @@
     "mapName": "FET 1v1 Map Pack",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["2 Players", "Medium", "Small", "Map Pack"]
   },
   {
     "id": "FET 2v2 Map Pack",
@@ -643,6 +685,7 @@
     "mapName": "FET 2v2 Map Pack",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["4 Players", "Medium", "Small", "Map Pack"]
   },
   {
     "id": "FET 2v2 Map Pack V2",
@@ -658,6 +701,7 @@
     "mapName": "FET 2v2 Map Pack V2",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["4 Players", "Large", "Medium", "Small", "Water", "Map Pack"]
   },
   {
     "id": "FET Team Deathmatch Map Pack",
@@ -673,6 +717,7 @@
     "mapName": "FET Team Deathmatch Map Pack",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["8 Players", "2 Players", "Large", "Small", "Water", "Map Pack"]
   },
   {
     "id": "SCS 2v2 Map Pack",
@@ -688,6 +733,7 @@
     "mapName": "SCS 2v2 Map Pack",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["4 Players", "Medium", "Water", "Map Pack"]
   },
   {
     "id": "SCS Map Pack",
@@ -703,5 +749,6 @@
     "mapName": "SCS Map Pack",
     "description": "",
     "mapPictureFileName": ""
+    "tags": ["6 Players", "4 Players", "2 Players", "Large", "Medium", "Small", "Water", "Map Pack"]
   }
 ]
