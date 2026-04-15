@@ -160,20 +160,20 @@
     "tags": ["6 Players", "Team", "Medium", "Map Pack"]
   },
   {
-    "id": "Tourney Dome Change v1",
-    "fileName": "_TourneyDomeChange_v1.0.0.scd",
+    "id": "Cybran Campaign Mission 1 Map",
+    "fileName": "_CybranCampaignMissionOneMap_v1.0.0.scd",
     "author": "",
     "type": "Map",
     "version": "v1.0.0",
     "lastUpdatedDate": "",
-    "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/Tourney_Dome_Change_v1_v1.0.0/_TourneyDomeChange_v1.0.0.scd",
-    "playerCount": "8",
-    "mapTeamStyle": "4v4",
+    "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/Cybran_Campaign_Mission_One_Map_v1.0.0/_CybranCampaignMissionOneMap_v1.0.0.scd",
+    "playerCount": "4",
+    "mapTeamStyle": "2v2",
     "size": "",
-    "mapName": "Tourney Dome Change v1",
+    "mapName": "Cybran Campaign Mission 1 Map",
     "description": "",
-    "mapPictureFileName": "",
-    "tags": ["8 Players", "Team", "Large"]
+    "mapPictureFileName": "cybrancampaignmissiononemap.png",
+    "tags": ["4 Players", "Team", "Small"]
   },
   {
     "id": "Tourney Dome Change v2",
