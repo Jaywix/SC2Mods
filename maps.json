@@ -12,7 +12,7 @@
     "size": "",
     "mapName": "4v4 Tourney Dome Maps",
     "description": "",
-    "mapPictureFileName": "tourneydome.png",
+    "mapPictureFileName": "",
     "tags": ["8 Players", "Team", "Large", "Medium", "Small", "Map Pack"]
   },
   {
@@ -60,7 +60,7 @@
     "size": "",
     "mapName": "Micro Battle Map Pack",
     "description": "",
-    "mapPictureFileName": "",
+    "mapPictureFileName": "microbattle.png",
     "tags": ["2 Players", "Small", "Map Pack"]
   },
   {
@@ -76,7 +76,7 @@
     "size": "",
     "mapName": "Monkey Lord vs 7",
     "description": "",
-    "mapPictureFileName": "",
+    "mapPictureFileName": "monkeyvsseven.png",
     "tags": ["8 Players", "Team", "Medium"]
   },
   {
@@ -107,7 +107,7 @@
     "mapTeamStyle": "FFA, 1v1, 3v3",
     "size": "",
     "mapName": "Open Palms Infinite Mass",
-    "description": "",
+    "description": "6 player version of the classic map Open Palms. Mass points are removed and all players start with a massive storage of mass.",
     "mapPictureFileName": "palmsinfinite.png",
     "tags": ["6 Players", "Team", "FFA", "Medium"]
   },
@@ -123,8 +123,8 @@
     "mapTeamStyle": "",
     "size": "",
     "mapName": "SCS Fall Maps",
-    "description": "",
-    "mapPictureFileName": "",
+    "description": "scs.png",
+    "mapPictureFileName": "SCS map pack from the Fall of 2020",
     "tags": ["4 Players", "2 Players", "Team", "Medium", "Small", "Map Pack"]
   },
   {
@@ -139,8 +139,8 @@
     "mapTeamStyle": "",
     "size": "",
     "mapName": "SCS Summer Final Maps",
-    "description": "",
-    "mapPictureFileName": "",
+    "description": "SCS map pack for the 1v1 Summer Invitational of 2021",
+    "mapPictureFileName": "scs.png",
     "tags": ["2 Players", "Small", "Map Pack"]
   },
   {
@@ -252,7 +252,7 @@
     "size": "",
     "mapName": "Thunderpass 3v3",
     "description": "",
-    "mapPictureFileName": "",
+    "mapPictureFileName": "thunderpass.png",
     "tags": ["6 Players", "Team", "Medium"]
   },
   {
@@ -668,7 +668,7 @@
     "size": "",
     "mapName": "FET 1v1 Map Pack",
     "description": "",
-    "mapPictureFileName": "",
+    "mapPictureFileName": "fet.png",
     "tags": ["2 Players", "Medium", "Small", "Map Pack"]
   },
   {
@@ -684,7 +684,7 @@
     "size": "",
     "mapName": "FET 2v2 Map Pack",
     "description": "",
-    "mapPictureFileName": "",
+    "mapPictureFileName": "fet.png",
     "tags": ["4 Players", "Medium", "Small", "Map Pack"]
   },
   {
@@ -700,7 +700,7 @@
     "size": "",
     "mapName": "FET 2v2 Map Pack V2",
     "description": "",
-    "mapPictureFileName": "",
+    "mapPictureFileName": "fet.png",
     "tags": ["4 Players", "Large", "Medium", "Small", "Water", "Map Pack"]
   },
   {
@@ -716,7 +716,7 @@
     "size": "",
     "mapName": "FET Team Deathmatch Map Pack",
     "description": "",
-    "mapPictureFileName": "",
+    "mapPictureFileName": "fet.png",
     "tags": ["8 Players", "2 Players", "Large", "Small", "Water", "Map Pack"]
   },
   {
@@ -732,7 +732,7 @@
     "size": "",
     "mapName": "SCS 2v2 Map Pack",
     "description": "",
-    "mapPictureFileName": "",
+    "mapPictureFileName": "scs.png",
     "tags": ["4 Players", "Medium", "Water", "Map Pack"]
   },
   {
@@ -748,7 +748,7 @@
     "size": "",
     "mapName": "SCS Map Pack",
     "description": "",
-    "mapPictureFileName": "",
+    "mapPictureFileName": "scs.png",
     "tags": ["6 Players", "4 Players", "2 Players", "Large", "Medium", "Small", "Water", "Map Pack"]
   },
   {
