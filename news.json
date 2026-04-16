@@ -1,0 +1,24 @@
+[
+  {
+    "id": "001",
+    "type": "discord",
+    "title": "Join the SC2 Community Discord",
+    "date": "2026-04-01",
+    "body": "Connect with other players, find matches, and stay up to date with the latest news and tournaments.",
+    "linkText": "Join Discord",
+    "linkUrl": "https://discord.gg/yourserver",
+    "imageUrl": "",
+    "pinned": true
+  },
+  {
+    "id": "002",
+    "type": "update",
+    "title": "SC2 Mod Manager v1.0.0",
+    "date": "2026-04-15",
+    "body": "Initial release. Download maps, manage your gamedata, and back up your mod presets.",
+    "linkText": null,
+    "linkUrl": null,
+    "imageUrl": "",
+    "pinned": false
+  }
+]
