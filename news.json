@@ -14,11 +14,22 @@
     "id": "002",
     "type": "update",
     "title": "SC2 Mod Manager v1.0.0",
-    "date": "2026-04-15",
+    "date": "2026-04-08",
     "body": "Initial release. Download maps, manage your gamedata, and back up your mod presets.",
     "linkText": null,
     "linkUrl": null,
     "imageUrl": "sc2mainbackground.png",
+    "pinned": false
+  },
+  {
+    "id": "003",
+    "type": "update",
+    "title": "SC2 Mod Manager v1.4.0",
+    "date": "2026-04-15",
+    "body": "Latest Release: Version 1.4.0\n\nNew Features:\n- Added the News Feed for community news, tournament announcements, update information, and more\n- Added the Map Preview for downloadable and installed maps\n- Added Terms of Use and an installation wizard\n- Allows users to change the game path to a valid location and choose where internal Mod Manager files are stored\n- Allows users to create and delete mod presets in Backups\n- Now includes a button to uninstall the Mod Manager\n- Various bugs have been fixed",
+    "linkText": null,
+    "linkUrl": null,
+    "imageUrl": "uefbackground1.png",
     "pinned": false
   }
 ]
