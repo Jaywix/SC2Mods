@@ -31,5 +31,16 @@
     "linkUrl": null,
     "imageUrl": "uefbackground1.png",
     "pinned": false
-  }
+  },
+  {
+  "id": "004",
+  "type": "update",
+  "title": "SC2 Mod Manager v1.5.0",
+  "date": "2026-04-18",
+  "body": "Latest Release: Version 1.5.0\n\nNew Features:\n- Added four faction-based color themes (Jaywix Standard, UEF, Cybran Nation, and Aeon Illuminate) that can be selected in Settings and apply instantly across the entire application including buttons, borders, list selections, and text\n- Added faction-themed background images for both the main content area and sidebar that change to match the selected theme\n- Added sorting to all mod and map lists by name (A-Z / Z-A) or release date (newest / oldest), with unknown dates treated as the oldest\n- Changed mod and map naming conventions to include version numbers and author names directly in the file name",
+  "linkText": null,
+  "linkUrl": null,
+  "imageUrl": "uefacu.png",
+  "pinned": false
+}
 ]
