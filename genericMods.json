@@ -1,28 +1,29 @@
 [
   {
-    "id": "BuildModeHotkeys_v1.0.0",
-    "fileName": "_BuildModeHotkeys_v1.0.0.scd",
-    "author": "Unknown",
+    "id": "_Mod_BuildModeHotkeys_v1.0.0.scd",
+    "fileName": "_Mod_BuildModeHotkeys_v1.0.0_by.scd",
+    "author": "",
     "type": "Mod",
-    "version": "1.0.0",
-    "lastUpdatedDate": "Unknown",
-    "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/BuildModeHotkeys_v1.0.0/_BuildModeHotkeys_v1.0.0.zip"
+    "version": "v1.0.0",
+    "lastUpdatedDate": "",
+    "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/BuildModeHotkeys_v1.0.0/_Mod_BuildModeHotkeys_v1.0.0.scd"
   },
-
-
   {
-    "id": "BuffedAICapacity_v1.0.0",
-    "fileName": "_BuffedAICapacity_v1.0.0.scd",
-    "author": "Unknown",
+    "id": "_Mod_BuffedAICapacity_v1.0.0.scd",
+    "fileName": "_Mod_BuffedAICapacity_v1.0.0_by.scd",
+    "author": "",
     "type": "Mod",
-    "version": "1.0.0",
-    "lastUpdatedDate": "Unknown",
-    "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/BuffedAICapacity_v1.0.0/_BuffedAICapacity_v1.0.0.zip"
+    "version": "v1.0.0",
+    "lastUpdatedDate": "",
+    "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/BuffedAICapacity_v1.0.0/_Mod_BuffedAICapacity_v1.0.0.scd"
+  },
+  {
+    "id": "_Mod_CameraMod_v1.0.0_by_maksing.scd",
+    "fileName": "_Mod_CameraMod_v1.0.0_by_maksing.scd",
+    "author": "Maksing",
+    "type": "Mod",
+    "version": "v1.0.0",
+    "lastUpdatedDate": "",
+    "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/MaksingCameraMod_v1.0.0/_Mod_CameraMod_v1.0.0_by_maksing.scd"
   }
-  
-
-
-
-
-
 ]
