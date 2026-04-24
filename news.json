@@ -53,5 +53,16 @@
   "linkUrl": null,
   "imageUrl": "jayiron.png",
   "pinned": false
+  },
+  {
+  "type": "tournament",
+  "title": "2026 Summer Open 1v1 Tournament",
+  "date": "20.06.2026",
+  "imageUrl": "summertournament2026.png",
+  "body": "Open to players of all skill levels! Share and invite your friends to participate in the biggest Supreme Commander 2 tournament of 2026 with a prize pool of $1000+!\n\nTo register, follow these simple steps:\n1. Join the discord linked below\n2. Sign up in the 'registrations' channel\n3. Carefully read the rules in the 'rules' channel\n4. Message 'general' with any questions\n\nTournament will be held on Saturday, June 20th at 4:00 PM UTC + 0",
+  "links": [
+    { "text": "🎮  Join Discord", "url": "https://discord.gg/4z2zQec5WH" },
+    { "text": "🎬  Watch Trailer", "url": "" }
+  ]
   }
 ]
