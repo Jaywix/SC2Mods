@@ -42,5 +42,16 @@
   "linkUrl": null,
   "imageUrl": "uefacu.png",
   "pinned": false
-}
+  },
+  {
+  "id": "005",
+  "type": "update",
+  "title": "SC2 Mod Manager v1.6.1",
+  "date": "2026-04-24",
+  "body": "Latest Release: Version 1.6.1\n\nNew Features:\n- Added new navigation from installed mods pages to download mod pages and vice versa\n- Added metadata information for generic mods\n- Fixed bug with not recognizing unknown files if they existed in gamedata when the mod manager was installed\n- News items can be collapsed\n- Added instruction on the home page\n- Now appends SC2ModManager to the user specified directory for install\n- Added quick folder finders in the settings page",
+  "linkText": null,
+  "linkUrl": null,
+  "imageUrl": "jayiron.png",
+  "pinned": false
+  }
 ]
