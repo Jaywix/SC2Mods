@@ -1,29 +1,38 @@
 [
   {
     "id": "_Mod_BuildModeHotkeys_v1.0.0.scd",
-    "fileName": "_Mod_BuildModeHotkeys_v1.0.0_by.scd",
-    "author": "",
+    "fileName": "_Mod_BuildModeHotkeys_v1.0.0.scd",
+    "displayName": "Build Mode Hotkeys",
+    "author": "Maksing",
     "type": "Mod",
     "version": "v1.0.0",
     "lastUpdatedDate": "",
+    "description": "This mod changes the buildmode hotkeys in game. Build mode hotkeys are accessed by pressing 'b' on the keyboard. This mod makes the majority of the keybinds assigned to keys on the left side of the keyboard, making it easier to use the hotkeys without having to stretch your hand.",
+    "pictureFileName": "",
     "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/BuildModeHotkeys_v1.0.0/_Mod_BuildModeHotkeys_v1.0.0.scd"
   },
   {
     "id": "_Mod_BuffedAICapacity_v1.0.0.scd",
-    "fileName": "_Mod_BuffedAICapacity_v1.0.0_by.scd",
-    "author": "",
+    "fileName": "_Mod_BuffedAICapacity_v1.0.0.scd",
+    "displayName": "Buffed AI Capacity",
+    "author": "Maksing",
     "type": "Mod",
     "version": "v1.0.0",
     "lastUpdatedDate": "",
+    "description": "This mod removes the maximum capacity for increasing a custom AI's difficulty.",
+    "pictureFileName": "",
     "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/BuffedAICapacity_v1.0.0/_Mod_BuffedAICapacity_v1.0.0.scd"
   },
   {
     "id": "_Mod_CameraMod_v1.0.0_by_maksing.scd",
     "fileName": "_Mod_CameraMod_v1.0.0_by_maksing.scd",
+    "displayName": "Camera Mod",
     "author": "Maksing",
     "type": "Mod",
     "version": "v1.0.0",
     "lastUpdatedDate": "",
+    "description": "",
+    "pictureFileName": "",
     "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/MaksingCameraMod_v1.0.0/_Mod_CameraMod_v1.0.0_by_maksing.scd"
   }
 ]
