@@ -68,5 +68,16 @@
     { "text": "🎮  Join Discord", "url": "https://discord.gg/4z2zQec5WH" },
     { "text": "🎬  Watch Trailer", "url": "https://youtu.be/aGkDubUHAVw" }
   ]
+  },
+  {
+  "id": "007",
+  "type": "update",
+  "title": "SC2 Mod Manager v1.6.3",
+  "date": "2026-05-13",
+  "body": "Latest Release: Version 1.6.3\n\nNew Features:\n- Added built in functionality for Maksing's Hotkey Mods allowing for easy editing of normal game hotkeys and build-mode hotkeys\n- Added new stages to the downloading process so users can see the progress: Queued, Downloading, Downloaded, Failed",
+  "linkText": null,
+  "linkUrl": null,
+  "imageUrl": "jayiron.png",
+  "pinned": false
   }
 ]
