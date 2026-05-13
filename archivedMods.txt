@@ -1,0 +1,34 @@
+// ==========================================================================     Generic Gamedata Mods     ==========================================================================
+  {
+    "id": "_Mod_BuildModeHotkeys_v1.0.0.scd",
+    "fileName": "_Mod_BuildModeHotkeys_v1.0.0.scd",
+    "displayName": "Build Mode Hotkeys",
+    "author": "Maksing",
+    "type": "Mod",
+    "version": "v1.0.0",
+    "lastUpdatedDate": "",
+    "description": "This mod changes the buildmode hotkeys in game. Build mode hotkeys are accessed by pressing 'b' on the keyboard. This mod makes the majority of the keybinds assigned to keys on the left side of the keyboard, making it easier to use the hotkeys without having to stretch your hand.",
+    "pictureFileName": "",
+    "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/BuildModeHotkeys_v1.0.0/_Mod_BuildModeHotkeys_v1.0.0.scd"
+  },
+
+
+
+
+// ==========================================================================     Maps     ==========================================================================
+  {
+    "id": "_CustomMission_1p_TermesisCustomMissionTestVersion_v4.1.0_by_bdftm.scd",
+    "fileName": "_CustomMission_1p_TermesisCustomMissionTestVersion_v4.1.0_by_bdftm.scd",
+    "author": "Foxtermelon, Maksing",
+    "type": "Map",
+    "version": "v4.1.0",
+    "lastUpdatedDate": "",
+    "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/BDFTM_Custom_Mission_TEST_VERSION_v4.1.0/_CustomMission_1p_TermesisCustomMissionTestVersion_v4.1.0_by_bdftm.scd",
+    "playerCount": "1",
+    "mapTeamStyle": "1vAI",
+    "size": "",
+    "mapName": "BDFTM Custom Mission TEST VERSION",
+    "description": "",
+    "mapPictureFileName": "termesisai.png",
+    "tags": ["Large"]
+  },
