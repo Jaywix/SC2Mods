@@ -79,5 +79,16 @@
   "linkUrl": null,
   "imageUrl": "jayiron.png",
   "pinned": false
+  },
+  {
+  "id": "008",
+  "type": "update",
+  "title": "New Map: Battle For Greenland",
+  "date": "2026-06-04",
+  "body": "New Map! Foxtermelon introduces the Battle For Greenland map, featuring two distinct spawning locations: 4v4 and 3v3v2",
+  "linkText": null,
+  "linkUrl": null,
+  "imageUrl": "battleforgreenland.png",
+  "pinned": false
   }
 ]
