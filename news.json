@@ -63,7 +63,7 @@
   "linkText": "🎮  Join Discord",
   "linkUrl": "https://discord.gg/4z2zQec5WH",
   "imageUrl": "summertournament2026.png",
-  "pinned": true,
+  "pinned": false,
   "links": [
     { "text": "🎮  Join Discord", "url": "https://discord.gg/4z2zQec5WH" },
     { "text": "🎬  Watch Trailer", "url": "https://youtu.be/aGkDubUHAVw" }
@@ -90,5 +90,20 @@
   "linkUrl": null,
   "imageUrl": "battleforgreenland.png",
   "pinned": false
+  },
+  {
+  "id": "006",
+  "type": "tournament",
+  "title": "2026 Summer Open 1v1 Tournament",
+  "date": "20.06.2026",
+  "body": "After two weekends of the highest levels of gameplay, only 3 commanders remain! Join us this Saturday for the finale of this epic tournament. Watch the tournament live on Maitre's twitch (see link below). Will be casted by Maitre, Foxtermelon and Jaywix!\n\nThe finale will begin on Saturday, July 4th at 3:00 PM UTC + 0",
+  "linkText": "🎮  Join Discord",
+  "linkUrl": "https://discord.gg/4z2zQec5WH",
+  "imageUrl": "SO26Finale.png",
+  "pinned": true,
+  "links": [
+    { "text": "🎮  Join Discord", "url": "https://discord.gg/4z2zQec5WH" },
+    { "text": "🎬  Watch Live", "url": "https://www.twitch.tv/maitre369nl" }
+  ]
   }
 ]
