@@ -100,10 +100,24 @@
   "linkText": "🎮  Join Discord",
   "linkUrl": "https://discord.gg/4z2zQec5WH",
   "imageUrl": "SO26Finale.png",
-  "pinned": true,
+  "pinned": false,
   "links": [
     { "text": "🎮  Join Discord", "url": "https://discord.gg/4z2zQec5WH" },
     { "text": "🎬  Watch Live", "url": "https://www.twitch.tv/maitre369nl" }
+  ]
+  },
+  {
+  "id": "010",
+  "type": "update",
+  "title": "Custom Mission Trailer",
+  "date": "08.07.2026",
+  "body": "Check out the new custom mission created by Maksing and Foxtermelon! This new trailer, made by Hope, demonstrates some of the difficult challenges that are to be faced against this new rogue AI that must be destroyed. Use a combination of all 3 factions to bring down this terrible foe! Be careful of building punishable units or the battle may end sooner than you would hope...\n\nDownload now from the list of downloadable custom maps.\nNOTE: Do not change any colors and add the AI's one by one without changing anyone's position for the mission to load correctly. Reach out to the SC2 Discord if you have any questions.",
+  "linkText": "🎮  Join Discord",
+  "linkUrl": "https://discord.gg/4z2zQec5WH",
+  "imageUrl": "custommission.png",
+  "pinned": false,
+  "links": [
+    { "text": "🎬  Watch Trailer", "url": "https://www.youtube.com/watch?v=gvuKnxGBk0E" }
   ]
   }
 ]
