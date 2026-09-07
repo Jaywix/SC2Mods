@@ -782,5 +782,21 @@
     "description": "",
     "mapPictureFileName": "battleforgreenlandmap.png",
     "tags": ["8 Players", "Large", "Water"]
+  },
+  {
+    "id": "_Map_8p_Eclipse_v1.0.0_by_bdftm",
+    "fileName": "_Map_8p_Eclipse_v1.0.0_by_bdftm",
+    "author": "Foxtermelon",
+    "type": "Map",
+    "version": "v1.0.0",
+    "lastUpdatedDate": "04.09.2026",
+    "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/Eclipse_v1.0.0/_Map_8p_Eclipse_v1.0.0_by_bdftm",
+    "playerCount": "8",
+    "mapTeamStyle": "4v4, 3v3, 2v2, 1v1",
+    "size": "",
+    "mapName": "Eclipse",
+    "description": "",
+    "mapPictureFileName": "",
+    "tags": ["8 Players", "Large", "Water"]
   }
 ]
