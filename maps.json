@@ -814,5 +814,21 @@
     "description": "",
     "mapPictureFileName": "",
     "tags": ["8 Players", "4 Players", "Team", "Large", "Medium", "Water", "Map Pack"]
-  }  
+  }, 
+  {
+    "id": "_MapPack_Autumn2026-Part-2_v1.0.0_by_BDFTM.scd",
+    "fileName": "_MapPack_Autumn2026-Part-2_v1.0.0_by_BDFTM.scd",
+    "author": "Crya, Foxtermelon and maksing",
+    "type": "Map",
+    "version": "v1.0.0",
+    "lastUpdatedDate": "18.10.2026",
+    "downloadURL": "https://github.com/Jaywix/SC2Mods/releases/download/Autumn-Part-2_v1.0.0/_MapPack_Autumn2026-Part-2_v1.0.0_by_BDFTM.scd",
+    "playerCount": "8",
+    "mapTeamStyle": "4v4, 2v2",
+    "size": "",
+    "mapName": "Autumn 2026 MapPack Part 2",
+    "description": "",
+    "mapPictureFileName": "",
+    "tags": ["8 Players", "4 Players", "Team", "Large", "Medium", "Small", "Water", "Map Pack"]
+  }    
 ]
